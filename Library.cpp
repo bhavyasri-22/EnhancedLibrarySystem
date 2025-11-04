@@ -136,9 +136,14 @@ void Library::issueBook(const string &bookID, const string &studentID) {
 }
 
 void Library::returnBook(const string &bookID, const string &studentID) {
+    // Check if student exists
     auto sIt = students.find(studentID);
-    if(sIt==students.end()) { cout << "Student not found.\n"; return; }
+    if(sIt == students.end()) { 
+        cout << "Student not found.\n"; 
+        return; 
+    }
 
+    // Check if the book was issued to this student
     auto &issued = sIt->second.issuedBooks;
     bool found = false;
     time_t issueTime = 0;
@@ -150,8 +155,12 @@ void Library::returnBook(const string &bookID, const string &studentID) {
             break;
         }
     }
-    if(!found) { cout << "This book was not issued to this student.\n"; return; }
+    if(!found) { 
+        cout << "This book was not issued to this student.\n"; 
+        return; 
+    }
 
+    // Calculate overdue
     time_t now = time(nullptr);
     double days = difftime(now, issueTime)/(60*60*24);
     if(days > 2.0) {
@@ -161,9 +170,11 @@ void Library::returnBook(const string &bookID, const string &studentID) {
         cout << "Book returned on time.\n";
     }
 
+    // Mark book as available
     auto bIt = books.find(bookID);
     if(bIt != books.end()) bIt->second.available = true;
 
+    // Log operation for undo/redo
     Operation op;
     op.type = RETURN_BOOK;
     op.bookID = bookID;
@@ -171,28 +182,30 @@ void Library::returnBook(const string &bookID, const string &studentID) {
     undoStack.push(op);
     while(!redoStack.empty()) redoStack.pop();
 
-    cout << "Book returned successfully.\n";
+    // Terminal output for return
+    cout << "Book '" << bIt->second.title << "' returned by student: " << studentID << "\n";
 
-    // Serve waitlist entries for this book (FIFO)
-    if(!waitingList.empty()) {
-        int qsize = (int)waitingList.size();
-        bool served = false;
-        queue<pair<string,string>> temp;
-        while(qsize--) {
-            auto w = waitingList.front();
-            waitingList.pop();
-            if(!served && w.first == bookID) {
-                // w.first == bookID, w.second == studentID waiting
-                issueBook(w.first, w.second);
-                served = true;
-            } else {
-                temp.push(w);
-            }
+    // Serve waiting list (FIFO) for this book
+    bool reissued = false;
+    queue<pair<string,string>> temp;
+    while(!waitingList.empty()) {
+        auto w = waitingList.front(); waitingList.pop();
+        if(!reissued && w.first == bookID) {
+            // Reissue to waiting student
+            issueBook(w.first, w.second);
+            cout << "Book '" << bIt->second.title << "' reissued to student: " << w.second << "\n";
+            reissued = true;
+        } else {
+            temp.push(w);
         }
-       waitingList = std::move(temp);
+    }
+    waitingList = std::move(temp);
 
+    if(!reissued) {
+        cout << "No pending requests for this book.\n";
     }
 }
+
 
 vector<string> Library::autocompleteTitle(const string &prefix) {
     return bookTrie.searchPrefix(prefix, 15);
