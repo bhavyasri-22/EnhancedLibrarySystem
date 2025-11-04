@@ -1,0 +1,250 @@
+B249,Limitless,Jim Kwik,1
+B246,The Light We Cannot See,Anthony Doerr,1
+B244,The Help,Kathryn Stockett,1
+B242,Cloud Atlas,David Mitchell,1
+B241,Station Eleven,Emily St. John Mandel,1
+B240,The Secret History,Donna Tartt,1
+B239,The Goldfinch,Donna Tartt,1
+B238,Never Let Me Go,Kazuo Ishiguro,1
+B237,The Remains of the Day,Kazuo Ishiguro,1
+B236,Doctor Zhivago,Boris Pasternak,1
+B235,Demons,Fyodor Dostoevsky,1
+B234,The Idiot,Fyodor Dostoevsky,1
+B232,The Wind-Up Bird Chronicle,Haruki Murakami,1
+B231,1Q84,Haruki Murakami,1
+B230,Kafka on the Shore,Haruki Murakami,1
+B229,Norwegian Wood,Haruki Murakami,1
+B225,Origin,Dan Brown,1
+B224,The Lost Symbol,Dan Brown,1
+B223,Inferno,Dan Brown,1
+B221,The Shadow of the Wind,Carlos Ruiz Zafón,1
+B220,The Night Circus,Erin Morgenstern,1
+B219,Sharp Objects,Gillian Flynn,1
+B216,Where the Crawdads Sing,Delia Owens,1
+B215,Conversations with Friends,Sally Rooney,1
+B213,The Midnight Library,Matt Haig,1
+B212,Circe,Madeline Miller,1
+B210,The Hero of Ages,Brandon Sanderson,1
+B209,The Well of Ascension,Brandon Sanderson,1
+B214,Normal People,Sally Rooney,1
+B207,Mistborn,Brandon Sanderson,1
+B204,Words of Radiance,Brandon Sanderson,1
+B201,The Name of the Wind,Patrick Rothfuss,1
+B116,Clean Code,Robert C. Martin,1
+B099,Ready Player One,Ernest Cline,1
+B191,A Storm of Swords,George R.R. Martin,1
+B187,Veronika Decides to Die,Paulo Coelho,1
+B186,The Zahir,Paulo Coelho,1
+B184,Brida,Paulo Coelho,1
+B190,A Clash of Kings,George R.R. Martin,1
+B182,The Alchemist,Paulo Coelho,1
+B179,The Magic of Thinking Big,David Schwartz,1
+B178,You Are a Badass,Jen Sincero,1
+B208,The Final Empire,Brandon Sanderson,1
+B177,The Success Principles,Jack Canfield,1
+B172,Ego Is the Enemy,Ryan Holiday,1
+B171,Stillness Is the Key,Ryan Holiday,1
+B226,Digital Fortress,Dan Brown,1
+B170,The Power of Now,Eckhart Tolle,1
+B197,Baptism of Fire,Andrzej Sapkowski,1
+B169,Flow,Mihaly Csikszentmihalyi,1
+B168,Mindset,Carol Dweck,1
+B043,Shutter Island,Dennis Lehane,1
+B166,The Psychology of Selling,Brian Tracy,1
+B018,Little Women,Louisa May Alcott,1
+B148,Think Like a Monk,Jay Shetty,1
+B189,A Game of Thrones,George R.R. Martin,1
+B163,One Up On Wall Street,Peter Lynch,1
+B162,The Intelligent Investor,Benjamin Graham,1
+B158,Crush It! ,Gary Vaynerchuk,1
+B106,Ramayana,Valmiki,1
+B157,The 4 Hour Workweek,Tim Ferriss,1
+B152,Everything is F*cked,Mark Manson,1
+B150,Ikigai,Hector Garcia,1
+B149,Grit,Angela Duckworth,1
+B146,Start With Why,Simon Sinek,1
+B198,Tower of Swallows,Andrzej Sapkowski,1
+B145,The Tipping Point,Malcolm Gladwell,1
+B144,Blink,Malcolm Gladwell,1
+B140,The Psychology of Money,Morgan Housel,1
+B066,The Old Man and the Sea,Ernest Hemingway,1
+B181,The Power,Rhonda Byrne,1
+B034,The Road,Cormac McCarthy,1
+B155,Rework,Jason Fried,1
+B138,The Lean Startup,Eric Ries,1
+B135,Soft Skills,John Sonmez,1
+B051,Frankenstein,Mary Shelley,1
+B165,Richest Man in Babylon,George Clason,1
+B248,The Wolf of Wall Street,Jordan Belfort,1
+B134,The Pragmatic Programmer,Andrew Hunt,1
+B188,A Song of Ice and Fire,George R.R. Martin,1
+B058,Les Misérables,Victor Hugo,1
+B133,Refactoring,Martin Fowler,1
+B131,Data Science from Scratch,Joel Grus,1
+B130,Reinforcement Learning,Sutton and Barto,1
+B129,Pattern Recognition and Machine Learning,Christopher Bishop,1
+B180,The Secret,Rhonda Byrne,1
+B128,Machine Learning,Tom Mitchell,1
+B127,Deep Learning,Goodfellow,1
+B176,Unlimited Power,Tony Robbins,1
+B124,Database System Concepts,Silberschatz,1
+B123,Computer Networks,Tanenbaum,1
+B139,The Millionaire Fastlane,MJ DeMarco,1
+B096,The Immortal Life of Henrietta Lacks,Rebecca Skloot,1
+B121,Cracking the Coding Interview,Gayle Laakmann McDowell,1
+B120,Competitive Programming,Steven Halim,1
+B167,The Art of Public Speaking,Dale Carnegie,1
+B211,The Song of Achilles,Madeline Miller,1
+B118,Design Patterns,Erich Gamma,1
+B108,The Quran,Multiple Authors,1
+B117,Clean Architecture,Robert C. Martin,1
+B227,Deception Point,Dan Brown,1
+B222,The Da Vinci Code,Dan Brown,1
+B112,Automate the Boring Stuff,Al Sweigart,1
+B016,Sense and Sensibility,Jane Austen,1
+B085,Deep Work,Cal Newport,1
+B183,The Pilgrimage,Paulo Coelho,1
+B109,The Holy Bible,Multiple Authors,1
+B107,Mahabharata,Vyasa,1
+B102,The Art of War,Sun Tzu,1
+B156,Tools of Titans,Tim Ferriss,1
+B101,Neuromancer,William Gibson,1
+B091,A Brief History of Time,Stephen Hawking,1
+B100,Snow Crash,Neal Stephenson,1
+B110,The Torah,Multiple Authors,1
+B098,Project Hail Mary,Andy Weir,1
+B097,The Martian,Andy Weir,1
+B192,A Feast for Crows,George R.R. Martin,1
+B137,Zero to One,Peter Thiel,1
+B092,The Theory of Everything,Stephen Hawking,1
+B067,For Whom the Bell Tolls,Ernest Hemingway,1
+B126,Artificial Intelligence,Stuart Russell,1
+B088,Sapiens,Yuval Noah Harari,1
+B039,Angels & Demons,Dan Brown,1
+B090,21 Lessons for the 21st Century,Yuval Noah Harari,1
+B087,Man's Search for Meaning,Viktor E. Frankl,1
+B040,Inferno,Dan Brown,1
+B174,The Richest Man Who Ever Lived,Steven Scott,1
+B132,Code Complete,Steve McConnell,1
+B035,The Shining,Stephen King,1
+B053,The Iliad,Homer,1
+B073,Wuthering Heights,Emily Brontë,1
+B086,Can't Hurt Me,David Goggins,1
+B084,Think and Grow Rich,Napoleon Hill,1
+B080,Elon Musk,Ashlee Vance,1
+B074,The Secret Garden,Frances Hodgson Burnett,1
+B161,Good to Great,Jim Collins,1
+B079,Steve Jobs,Walter Isaacson,1
+B054,Crime and Punishment,Fyodor Dostoevsky,1
+B076,The War of the Worlds,H.G. Wells,1
+B089,Homo Deus,Yuval Noah Harari,1
+B005,Harry Potter and the Order of the Phoenix,J.K. Rowling,1
+B228,Shogun,James Clavell,1
+B075,The Time Machine,H.G. Wells,1
+B143,Outliers,Malcolm Gladwell,1
+B245,Educated,Tara Westover,1
+B125,Modern Operating Systems,Andrew Tanenbaum,1
+B070,The Divine Comedy,Dante Alighieri,1
+B173,The Obstacle Is the Way,Ryan Holiday,1
+B243,Gone with the Wind,Margaret Mitchell,1
+B065,The Kite Runner,Khaled Hosseini,1
+B068,The Sun Also Rises,Ernest Hemingway,1
+B062,The Stranger,Albert Camus,1
+B200,The Last Wish,Andrzej Sapkowski,1
+B069,Don Quixote,Miguel de Cervantes,1
+B029,Foundation,Isaac Asimov,1
+B060,The Three Musketeers,Alexandre Dumas,1
+B196,Time of Contempt,Andrzej Sapkowski,1
+B021,A Thousand Splendid Suns,Khaled Hosseini,1
+B059,The Count of Monte Cristo,Alexandre Dumas,1
+B057,The Brothers Karamazov,Fyodor Dostoevsky,1
+B010,The Silmarillion,J.R.R. Tolkien,1
+B030,Ender's Game,Orson Scott Card,1
+B028,Dune,Frank Herbert,1
+B071,Dr. Jekyll and Mr. Hyde,Robert Louis Stevenson,1
+B147,Leaders Eat Last,Simon Sinek,1
+B072,Jane Eyre,Charlotte Brontë,1
+B056,Anna Karenina,Leo Tolstoy,1
+B037,The Stand,Stephen King,1
+B061,The Picture of Dorian Gray,Oscar Wilde,1
+B038,The Da Vinci Code,Dan Brown,1
+B007,Harry Potter and the Deathly Hallows,J.K. Rowling,1
+B055,War and Peace,Leo Tolstoy,1
+B081,Atomic Habits,James Clear,1
+B077,The Invisible Man,H.G. Wells,1
+B083,Rich Dad Poor Dad,Robert Kiyosaki,1
+B008,The Hobbit,J.R.R. Tolkien,1
+B151,The Subtle Art of Not Giving a F*ck,Mark Manson,1
+B049,The Adventures of Sherlock Holmes,Arthur Conan Doyle,1
+B048,Charlie and the Chocolate Factory,Roald Dahl,1
+B203,The Way of Kings,Brandon Sanderson,1
+B026,Catching Fire,Suzanne Collins,1
+B046,Charlotte's Web,E.B. White,1
+B195,Blood of Elves,Andrzej Sapkowski,1
+B202,The Wise Man's Fear,Patrick Rothfuss,1
+B001,Harry Potter and the Sorcerer's Stone,J.K. Rowling,1
+B036,It,Stephen King,1
+B041,The Girl with the Dragon Tattoo,Stieg Larsson,1
+B159,Contagious,Jonah Berger,1
+B115,The C Programming Language,Dennis Ritchie,1
+B064,The Metamorphosis,Franz Kafka,1
+B024,Looking for Alaska,John Green,1
+B105,Bhagavad Gita,Vyasa,1
+B104,Meditations,Marcus Aurelius,1
+B027,Mockingjay,Suzanne Collins,1
+B160,Blue Ocean Strategy,Chan Kim,1
+B122,Operating System Concepts,Silberschatz,1
+B153,How to Win Friends & Influence People,Dale Carnegie,1
+B095,The Gene,Siddhartha Mukherjee,1
+B093,Cosmos,Carl Sagan,1
+B006,Harry Potter and the Half-Blood Prince,J.K. Rowling,1
+B025,The Hunger Games,Suzanne Collins,1
+B185,Eleven Minutes,Paulo Coelho,1
+B247,The Glass Castle,Jeannette Walls,1
+B033,The Handmaid's Tale,Margaret Atwood,1
+B044,Life of Pi,Yann Martel,1
+B013,1984,George Orwell,1
+B050,Dracula,Bram Stoker,1
+B164,Security Analysis,Benjamin Graham,1
+B017,The Catcher in the Rye,J.D. Salinger,1
+B023,The Fault in Our Stars,John Green,1
+B154,The 7 Habits of Highly Effective People,Stephen Covey,1
+B094,The Selfish Gene,Richard Dawkins,1
+B233,Crime and Punishment,Fyodor Dostoevsky,1
+B014,Animal Farm,George Orwell,1
+B052,The Odyssey,Homer,1
+B047,Matilda,Roald Dahl,1
+B113,Fluent Python,Luciano Ramalho,1
+B175,Awaken the Giant Within,Tony Robbins,1
+B111,Python Crash Course,Eric Matthes,1
+B199,Lady of the Lake,Andrzej Sapkowski,1
+B011,The Great Gatsby,F. Scott Fitzgerald,1
+B022,The Book Thief,Markus Zusak,1
+B020,The Kite Runner,Khaled Hosseini,1
+B012,To Kill a Mockingbird,Harper Lee,1
+B142,Mastery,Robert Greene,1
+B194,The Witcher,Andrzej Sapkowski,1
+B119,Introduction to Algorithms,CLRS,1
+B004,Harry Potter and the Goblet of Fire,J.K. Rowling,1
+B031,Brave New World,Aldous Huxley,1
+B009,The Lord of the Rings,J.R.R. Tolkien,1
+B218,The Girl on the Train,Paula Hawkins,1
+B082,The Power of Habit,Charles Duhigg,1
+B193,A Dance with Dragons,George R.R. Martin,1
+B103,The Prince,Niccolò Machiavelli,1
+B045,The Chronicles of Narnia,C.S. Lewis,1
+B141,The 48 Laws of Power,Robert Greene,1
+B114,Effective C++,Scott Meyers,1
+B217,The Silent Patient,Alex Michaelides,1
+B002,Harry Potter and the Chamber of Secrets,J.K. Rowling,1
+B078,Becoming,Michelle Obama,1
+B205,Oathbringer,Brandon Sanderson,1
+B032,Fahrenheit 451,Ray Bradbury,1
+B250,The Mountain Is You,Brianna Wiest,1
+B042,Gone Girl,Gillian Flynn,1
+B063,The Little Prince,Antoine de Saint-Exupéry,1
+B206,Rhythm of War,Brandon Sanderson,1
+B136,Hooked,Nir Eyal,1
+B003,Harry Potter and the Prisoner of Azkaban,J.K. Rowling,1
+B015,Pride and Prejudice,Jane Austen,1
+B019,The Alchemist,Paulo Coelho,1
