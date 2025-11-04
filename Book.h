@@ -10,13 +10,14 @@ public:
     string id;
     string title;
     string author;
+    string genre;
     bool available;
 
     Book();
-    Book(string _id, string _title, string _author);
-    Book(string _id, string _title, string _author, bool _available);
+    Book(const string& _id, const string& _title, const string& _author, const string& _genre);
+    Book(const string& _id, const string& _title, const string& _author, const string& _genre, bool _available);
 
     void printBook() const;
 };
 
-#endif
+#endif // BOOK_H
