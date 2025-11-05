@@ -2,32 +2,41 @@
 #include <iostream>
 using namespace std;
 
-Book::Book() {
+Book::Book()
+{
     id = title = author = genre = "";
-    available = true;
+    totalCopies = 0;  // Initialize to 0
+    issuedCopies = 0; // Initialize to 0
 }
 
-Book::Book(const string& _id, const string& _title, const string& _author, const string& _genre) {
+Book::Book(const string &_id, const string &_title, const string &_author, const string &_genre)
+{
     id = _id;
     title = _title;
     author = _author;
     genre = _genre;
-    available = true;
+    totalCopies = 1; // Default is 1 copy when first created via user input
+    issuedCopies = 0;
 }
 
-Book::Book(const string& _id, const string& _title, const string& _author, const string& _genre, bool _available) {
+// New constructor to load from file (replaces the old bool constructor)
+Book::Book(const string &_id, const string &_title, const string &_author, const string &_genre, int _totalCopies, int _issuedCopies)
+{
     id = _id;
     title = _title;
     author = _author;
     genre = _genre;
-    available = _available;
+    totalCopies = _totalCopies;
+    issuedCopies = _issuedCopies;
 }
 
-void Book::printBook() const {
-    cout << "ID: " << id 
-         << " | Title: " << title 
+void Book::printBook() const
+{
+    cout << "ID: " << id
+         << " | Title: " << title
          << " | Author: " << author
          << " | Genre: " << genre
-         << " | Available: " << (available ? "Yes" : "No") 
+         << " | Total Copies: " << totalCopies
+         << " | Available Copies: " << (totalCopies - issuedCopies) // Calculate available copies
          << endl;
 }
