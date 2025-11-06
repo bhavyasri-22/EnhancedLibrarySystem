@@ -1,100 +1,100 @@
-B019|Insurgent|Veronica Roth|Dystopian|3|0
-B045|It|Stephen King|Horror|1|0
-B010|The Two Towers|J.R.R. Tolkien|Fantasy|3|0
-B094|The Maze Runner|James Dashner|Dystopian|2|0
-B037|Inferno|Dan Brown|Thriller|2|0
-B100|Brave New World|Aldous Huxley|Dystopian|4|2
-B062|Elon Musk|Walter Isaacson|Biography|4|0
-B075|The Lean Startup|Eric Ries|Business|4|0
-B020|Allegiant|Veronica Roth|Dystopian|3|0
-B066|Ignited Minds|A.P.J. Abdul Kalam|Motivation|2|0
-B035|The Da Vinci Code|Dan Brown|Thriller|3|0
-B024|To Kill a Mockingbird|Harper Lee|Classic|4|0
-B060|The Immortal Life of Henrietta Lacks|Rebecca Skloot|Science|2|0
-B084|The Old Man and the Sea|Ernest Hemingway|Classic|4|0
-B079|Norwegian Wood|Haruki Murakami|Fiction|4|0
-B098|The Giver|Lois Lowry|Dystopian|1|0
-B038|Origin|Dan Brown|Thriller|4|0
-B067|The Power of Habit|Charles Duhigg|Self-Help|3|0
-B090|Twilight|Stephenie Meyer|Fantasy|2|0
-B073|Psychology of Money|Morgan Housel|Finance|3|0
-B058|The Selfish Gene|Richard Dawkins|Science|4|0
-B046|Carrie|Stephen King|Horror|1|0
-B056|Cosmos|Carl Sagan|Science|3|0
-B021|1984|George Orwell|Dystopian|3|0
-B004|Harry Potter and the Goblet of Fire|J.K. Rowling|Fantasy|4|0
-B089|The Perks of Being a Wallflower|Stephen Chbosky|Young Adult|3|0
-B053|21 Lessons for the 21st Century|Yuval Noah Harari|History|2|0
-B028|The Catcher in the Rye|J.D. Salinger|Classic|2|0
-B096|Death Cure|James Dashner|Dystopian|1|0
-B015|The Hunger Games|Suzanne Collins|Dystopian|3|0
-B087|Paper Towns|John Green|Young Adult|2|0
-B036|Angels & Demons|Dan Brown|Thriller|3|0
-B049|Dracula|Bram Stoker|Horror|4|0
-B080|Kafka on the Shore|Haruki Murakami|Fiction|1|0
-B027|Little Women|Louisa May Alcott|Classic|1|0
-B069|The 7 Habits of Highly Effective People|Stephen Covey|Self-Help|3|0
-B088|Looking for Alaska|John Green|Young Adult|2|0
-B085|For Whom the Bell Tolls|Ernest Hemingway|Classic|1|0
-B068|Atomic Habits|James Clear|Self-Help|4|0
-B078|Ikigai|Héctor García|Self-Help|3|0
-B061|Steve Jobs|Walter Isaacson|Biography|2|0
-B059|The Origin of Species|Charles Darwin|Science|4|0
-B097|The Girl Who Drank the Moon|Kelly Barnhill|Fantasy|4|0
-B076|Deep Work|Cal Newport|Self-Help|1|0
-B047|Misery|Stephen King|Horror|1|0
-B042|Gone Girl|Gillian Flynn|Thriller|1|0
-B033|A Thousand Splendid Suns|Khaled Hosseini|Fiction|4|0
-B057|Astrophysics for People in a Hurry|Neil deGrasse Tyson|Science|1|0
-B001|Harry Potter and the Sorcerer's Stone|J.K. Rowling|Fantasy|3|2
+B039|Digital Fortress|Dan Brown|Thriller|1|0
 B002|Harry Potter and the Chamber of Secrets|J.K. Rowling|Fantasy|1|1
-B048|The Stand|Stephen King|Horror|4|0
-B081|1Q84|Haruki Murakami|Fiction|2|0
-B070|Think and Grow Rich|Napoleon Hill|Self-Help|3|0
-B086|The Fault in Our Stars|John Green|Young Adult|1|0
-B043|The Silent Patient|Alex Michaelides|Thriller|1|0
-B005|Harry Potter and the Order of the Phoenix|J.K. Rowling|Fantasy|2|0
-B044|The Shining|Stephen King|Horror|1|0
-B083|Life of Pi|Yann Martel|Adventure|4|0
-B025|Pride and Prejudice|Jane Austen|Classic|3|0
-B093|Breaking Dawn|Stephenie Meyer|Fantasy|3|0
-B091|New Moon|Stephenie Meyer|Fantasy|3|0
-B095|Scorch Trials|James Dashner|Dystopian|1|0
-B018|Divergent|Veronica Roth|Dystopian|2|0
-B054|A Brief History of Time|Stephen Hawking|Science|1|0
-B034|The Book Thief|Markus Zusak|Historical Fiction|1|0
-B007|Harry Potter and the Deathly Hallows|J.K. Rowling|Fantasy|2|0
-B041|The Girl on the Train|Paula Hawkins|Thriller|3|0
-B092|Eclipse|Stephenie Meyer|Fantasy|4|0
-B071|Rich Dad Poor Dad|Robert Kiyosaki|Finance|3|0
-B040|Deception Point|Dan Brown|Thriller|3|0
-B074|Zero to One|Peter Thiel|Business|3|0
-B099|Fahrenheit 451|Ray Bradbury|Dystopian|4|0
-B008|The Hobbit|J.R.R. Tolkien|Fantasy|2|0
-B077|The Subtle Art of Not Giving a F*ck|Mark Manson|Self-Help|2|0
-B006|Harry Potter and the Half-Blood Prince|J.K. Rowling|Fantasy|3|0
-B011|The Return of the King|J.R.R. Tolkien|Fantasy|3|0
-B064|Long Walk to Freedom|Nelson Mandela|Biography|3|0
-B030|Wuthering Heights|Emily Brontë|Classic|2|0
-B031|The Alchemist|Paulo Coelho|Fiction|3|0
 B051|Sapiens|Yuval Noah Harari|History|2|0
-B016|Catching Fire|Suzanne Collins|Dystopian|1|0
-B026|Sense and Sensibility|Jane Austen|Classic|1|0
+B017|Mockingjay|Suzanne Collins|Dystopian|3|0
+B050|Frankenstein|Mary Shelley|Horror|2|0
+B023|The Great Gatsby|F. Scott Fitzgerald|Classic|2|0
+B003|Harry Potter and the Prisoner of Azkaban|J.K. Rowling|Fantasy|4|0
+B004|Harry Potter and the Goblet of Fire|J.K. Rowling|Fantasy|4|0
 B013|Percy Jackson and the Sea of Monsters|Rick Riordan|Fantasy|3|0
 B032|The Kite Runner|Khaled Hosseini|Fiction|4|0
-B017|Mockingjay|Suzanne Collins|Dystopian|3|0
-B023|The Great Gatsby|F. Scott Fitzgerald|Classic|2|0
-B029|Jane Eyre|Charlotte Brontë|Classic|1|0
-B052|Homo Deus|Yuval Noah Harari|History|4|0
-B022|Animal Farm|George Orwell|Political Satire|4|0
-B012|Percy Jackson and the Lightning Thief|Rick Riordan|Fantasy|2|0
-B072|The Intelligent Investor|Benjamin Graham|Finance|2|0
-B082|The Road|Cormac McCarthy|Dystopian|3|0
-B055|The Theory of Everything|Stephen Hawking|Science|4|0
-B014|Percy Jackson and the Titan's Curse|Rick Riordan|Fantasy|3|0
-B065|Wings of Fire|A.P.J. Abdul Kalam|Biography|3|0
-B063|Becoming|Michelle Obama|Biography|2|0
+B042|Gone Girl|Gillian Flynn|Thriller|1|0
+B031|The Alchemist|Paulo Coelho|Fiction|3|0
 B009|The Fellowship of the Ring|J.R.R. Tolkien|Fantasy|3|0
-B003|Harry Potter and the Prisoner of Azkaban|J.K. Rowling|Fantasy|4|0
-B050|Frankenstein|Mary Shelley|Horror|2|0
-B039|Digital Fortress|Dan Brown|Thriller|1|0
+B072|The Intelligent Investor|Benjamin Graham|Finance|2|0
+B024|To Kill a Mockingbird|Harper Lee|Classic|4|0
+B030|Wuthering Heights|Emily Brontë|Classic|2|0
+B083|Life of Pi|Yann Martel|Adventure|4|0
+B008|The Hobbit|J.R.R. Tolkien|Fantasy|2|0
+B058|The Selfish Gene|Richard Dawkins|Science|4|0
+B014|Percy Jackson and the Titan's Curse|Rick Riordan|Fantasy|3|0
+B052|Homo Deus|Yuval Noah Harari|History|4|0
+B047|Misery|Stephen King|Horror|1|0
+B094|The Maze Runner|James Dashner|Dystopian|2|0
+B075|The Lean Startup|Eric Ries|Business|4|0
+B005|Harry Potter and the Order of the Phoenix|J.K. Rowling|Fantasy|2|0
+B040|Deception Point|Dan Brown|Thriller|3|0
+B092|Eclipse|Stephenie Meyer|Fantasy|4|0
+B064|Long Walk to Freedom|Nelson Mandela|Biography|3|0
+B077|The Subtle Art of Not Giving a F*ck|Mark Manson|Self-Help|2|0
+B074|Zero to One|Peter Thiel|Business|3|0
+B035|The Da Vinci Code|Dan Brown|Thriller|3|0
+B053|21 Lessons for the 21st Century|Yuval Noah Harari|History|2|0
+B086|The Fault in Our Stars|John Green|Young Adult|1|0
+B043|The Silent Patient|Alex Michaelides|Thriller|1|0
+B081|1Q84|Haruki Murakami|Fiction|2|0
+B036|Angels & Demons|Dan Brown|Thriller|3|0
+B001|Harry Potter and the Sorcerer's Stone|J.K. Rowling|Fantasy|3|3
+B041|The Girl on the Train|Paula Hawkins|Thriller|3|0
+B063|Becoming|Michelle Obama|Biography|2|0
+B029|Jane Eyre|Charlotte Brontë|Classic|1|0
+B082|The Road|Cormac McCarthy|Dystopian|3|0
+B054|A Brief History of Time|Stephen Hawking|Science|1|0
+B099|Fahrenheit 451|Ray Bradbury|Dystopian|4|0
+B076|Deep Work|Cal Newport|Self-Help|1|0
+B089|The Perks of Being a Wallflower|Stephen Chbosky|Young Adult|3|0
+B016|Catching Fire|Suzanne Collins|Dystopian|1|0
+B006|Harry Potter and the Half-Blood Prince|J.K. Rowling|Fantasy|3|0
+B025|Pride and Prejudice|Jane Austen|Classic|3|0
+B022|Animal Farm|George Orwell|Political Satire|4|0
+B046|Carrie|Stephen King|Horror|1|0
+B026|Sense and Sensibility|Jane Austen|Classic|1|0
+B095|Scorch Trials|James Dashner|Dystopian|1|0
+B093|Breaking Dawn|Stephenie Meyer|Fantasy|3|0
+B034|The Book Thief|Markus Zusak|Historical Fiction|1|0
+B091|New Moon|Stephenie Meyer|Fantasy|3|2
+B048|The Stand|Stephen King|Horror|4|0
+B049|Dracula|Bram Stoker|Horror|4|0
+B007|Harry Potter and the Deathly Hallows|J.K. Rowling|Fantasy|2|0
+B078|Ikigai|Héctor García|Self-Help|3|0
+B068|Atomic Habits|James Clear|Self-Help|4|0
+B062|Elon Musk|Walter Isaacson|Biography|4|0
+B088|Looking for Alaska|John Green|Young Adult|2|0
+B060|The Immortal Life of Henrietta Lacks|Rebecca Skloot|Science|2|0
+B069|The 7 Habits of Highly Effective People|Stephen Covey|Self-Help|3|1
+B027|Little Women|Louisa May Alcott|Classic|1|0
+B080|Kafka on the Shore|Haruki Murakami|Fiction|1|0
+B096|Death Cure|James Dashner|Dystopian|1|0
+B067|The Power of Habit|Charles Duhigg|Self-Help|3|0
+B090|Twilight|Stephenie Meyer|Fantasy|2|0
+B087|Paper Towns|John Green|Young Adult|2|0
+B098|The Giver|Lois Lowry|Dystopian|1|0
+B070|Think and Grow Rich|Napoleon Hill|Self-Help|3|0
+B018|Divergent|Veronica Roth|Dystopian|2|0
+B055|The Theory of Everything|Stephen Hawking|Science|4|0
+B038|Origin|Dan Brown|Thriller|4|0
+B011|The Return of the King|J.R.R. Tolkien|Fantasy|3|0
+B061|Steve Jobs|Walter Isaacson|Biography|2|0
+B037|Inferno|Dan Brown|Thriller|2|0
+B012|Percy Jackson and the Lightning Thief|Rick Riordan|Fantasy|2|0
+B028|The Catcher in the Rye|J.D. Salinger|Classic|2|0
+B071|Rich Dad Poor Dad|Robert Kiyosaki|Finance|3|0
+B056|Cosmos|Carl Sagan|Science|3|0
+B021|1984|George Orwell|Dystopian|3|0
+B045|It|Stephen King|Horror|1|0
+B073|Psychology of Money|Morgan Housel|Finance|3|0
+B097|The Girl Who Drank the Moon|Kelly Barnhill|Fantasy|4|0
+B100|Brave New World|Aldous Huxley|Dystopian|4|3
+B065|Wings of Fire|A.P.J. Abdul Kalam|Biography|3|0
+B057|Astrophysics for People in a Hurry|Neil deGrasse Tyson|Science|1|0
+B059|The Origin of Species|Charles Darwin|Science|4|0
+B084|The Old Man and the Sea|Ernest Hemingway|Classic|4|0
+B079|Norwegian Wood|Haruki Murakami|Fiction|4|0
+B015|The Hunger Games|Suzanne Collins|Dystopian|3|0
+B020|Allegiant|Veronica Roth|Dystopian|3|0
+B033|A Thousand Splendid Suns|Khaled Hosseini|Fiction|4|0
+B044|The Shining|Stephen King|Horror|1|0
+B066|Ignited Minds|A.P.J. Abdul Kalam|Motivation|2|0
+B010|The Two Towers|J.R.R. Tolkien|Fantasy|3|0
+B085|For Whom the Bell Tolls|Ernest Hemingway|Classic|1|0
+B019|Insurgent|Veronica Roth|Dystopian|3|0
