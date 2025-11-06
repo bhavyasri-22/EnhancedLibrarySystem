@@ -5,17 +5,22 @@
 #include <string>
 using namespace std;
 
-class Book {
+class Book
+{
 public:
     string id;
     string title;
     string author;
     string genre;
-    bool available;
+    // --- NEW: Replaced 'bool available' with copy counters ---
+    int totalCopies = 0;  // Total number of copies of this title
+    int issuedCopies = 0; // Number of copies currently issued
 
     Book();
-    Book(const string& _id, const string& _title, const string& _author, const string& _genre);
-    Book(const string& _id, const string& _title, const string& _author, const string& _genre, bool _available);
+    // Constructor for new book entry (default 1 copy)
+    Book(const string &_id, const string &_title, const string &_author, const string &_genre);
+    // New constructor for loading from file
+    Book(const string &_id, const string &_title, const string &_author, const string &_genre, int _totalCopies, int _issuedCopies);
 
     void printBook() const;
 };
